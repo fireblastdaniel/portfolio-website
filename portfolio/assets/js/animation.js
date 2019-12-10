@@ -1,4 +1,4 @@
-var animationDelay = 4000;
+var animationDelay = 3000;
 
 animateHeadline($('.cd-headline'));
 

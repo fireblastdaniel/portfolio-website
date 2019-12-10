@@ -2647,8 +2647,19 @@ input, select, textarea {
 	.container.box.style2{
 		display:none;
 	}
-	.icons{
+	footer .icons{
 		display:none;
+	}
+
+	.inner .button {
+		color: #fff;
+		background: #35b882;
+		text-shadow: 0 0 0.5px rgba(53, 184, 130, 0.25);
+	}
+	.inner .button:hover {
+		color:#35b882 !important;
+		border:1px solid #35b882;
+		transition:.35s;
 	}
 
 	/* My animation */
